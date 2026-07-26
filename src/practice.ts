@@ -1,9 +1,10 @@
+//Type Annotation - assigning a variable a type associated with it.
+// If we change the datatype then it will show compile time error.
 const age:number = 10;
-
 age = "values";
-
 console.log(age);
 
+//diff between var, let and const
 function varExample() {
     var a = 10;
     var a = 20;
