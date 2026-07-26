@@ -1,9 +1,9 @@
 "use strict";
 /***
  *  Object types in Type Script
- * 1. Inline object type
- * 2. Using Type alias
- * 3. Using Interface
+ * 1. Inline object type - use when object type is used only once.
+ * 2. Using Type alias - use when object structure is used in multiple places.
+ * 3. Using Interface - use when object structure is used in multiple places esp. in classes.
  ***/
 Object.defineProperty(exports, "__esModule", { value: true });
 //Simple object type
