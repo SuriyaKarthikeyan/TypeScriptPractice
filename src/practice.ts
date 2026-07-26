@@ -4,6 +4,12 @@ const age:number = 10;
 age = "values";
 console.log(age);
 
+//function with parameter types and return type
+function getText(name: string): string {
+    return name;
+} 
+getText("suriya");
+
 //diff between var, let and const
 function varExample() {
     var a = 10;
@@ -33,3 +39,10 @@ console.log(x, y, z);
 varExample();
 letExample();
 constExample();
+
+//Type inference: Automatically determines the type of a variable/function based on the assigned value[without the need for type annotation]
+let a = "welcome";
+
+a=123;//shows compile error when assigning number type here.
+
+console.log(a);
