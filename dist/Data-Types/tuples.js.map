@@ -1,1 +1,1 @@
-{"version":3,"file":"tuples.js","sourceRoot":"","sources":["../../src/Data-Types/tuples.ts"],"names":[],"mappings":";;AAAA,MAAM,MAAM,GAAqB,CAAC,OAAO,EAAE,EAAE,CAAC,CAAC;AAE/C,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC"}
+{"version":3,"file":"tuples.js","sourceRoot":"","sources":["../../src/Data-Types/tuples.ts"],"names":[],"mappings":";AAAA,mFAAmF;AACnF,mCAAmC;;AAEnC,MAAM,MAAM,GAAqB,CAAC,OAAO,EAAE,EAAE,CAAC,CAAC;AAE/C,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC"}
